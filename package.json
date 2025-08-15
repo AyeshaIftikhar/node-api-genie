@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/create-node-api.git"
+    "url": "https://github.com/AyeshaIftikhar/node-api-genie.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/create-node-api/issues"
+    "url": "https://github.com/AyeshaIftikhar/node-api-genie/issues"
   },
-  "homepage": "https://github.com/yourusername/create-node-api#readme",
+  "homepage": "https://github.com/AyeshaIftikhar/node-api-genie#readme",
   "dependencies": {},
   "devDependencies": {},
   "files": [
