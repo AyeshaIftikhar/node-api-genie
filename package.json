@@ -1,0 +1,46 @@
+{
+  "name": "node-api-genie",
+  "version": "1.0.1",
+  "description": "CLI tool to scaffold a modern Node.js REST API with Express, MongoDB, and authentication",
+  "main": "index.js",
+  "bin": {
+    "node-api-genie": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish --access public"
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "express",
+    "mongodb",
+    "api",
+    "generator",
+    "scaffold",
+    "boilerplate",
+    "rest-api",
+    "authentication",
+    "project-generator"
+  ],
+  "author": "Ayesha Iftikhar @ Aishayy",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/create-node-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/create-node-api/issues"
+  },
+  "homepage": "https://github.com/yourusername/create-node-api#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
